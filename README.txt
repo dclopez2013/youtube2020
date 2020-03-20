@@ -13,4 +13,4 @@ OS 64bit W10
 
     *run main.py
     
-    ![Screenshot](youtuberpic.png)
+    ![](youtuberpic.png)
